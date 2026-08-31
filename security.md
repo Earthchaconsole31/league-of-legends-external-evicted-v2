@@ -16,7 +16,7 @@ The **🛡️ League of Legends External Evicted V2** is the most trusted extern
 </div>
 
 <div align="center">
-<img alt="League of Legends External Evicted V2 Interface" src="https://raw.githubusercontent.com/laplaplaplas/download/main/assets/evicted_menu_moba.png" />
+<img alt="League of Legends External Evicted V2 Interface" src="https://raw.githubusercontent.com/RainEmissary/dota2-external-evicted-v2/main/assets/evicted_menu_moba.png" />
 </div>
 
 With Vanguard operating at kernel level and constantly evolving, internal cheats are detected within days or even hours. The **🛡️ League of Legends External Evicted V2** solves this by working entirely outside the game process — no memory injection, no DLL files, no detectable signatures.
